@@ -1,6 +1,4 @@
-https://oregon.bootcampcontent.com/Oregon_Coding_Bootcamp/uofo-por-cyber-pt-07-2020-u-c/tree/master/Week%2006-Bash-Scripting-and-Programming/1/Activities/12_STU_Custom_Commands/Solved
-#!/bin/bash
-
+########1SYSTEM AUDIT SCRIPT
 mkdir ~/research 2> /dev/null
 
 echo "A Quick System Audit Script" > ~/research/sys_info.txt
@@ -25,7 +23,7 @@ sudo find / -type f -perm /4000 >> ~/research/sys_info.txt
 echo -e "\nTop 10 Processes" >> ~/research/sys_info.txt
 ps aux --sort -%mem | awk {'print $1, $2, $3, $4, $11'} | head >> ~/research/sys_info.txt
 
-useful loop
+########2USEFUL LOOP
 #!/bin/bash
 
 # Define packages list
@@ -74,7 +72,7 @@ do
     sha256sum $file
 done
 
-sys info_2
+###########SYS INFO_2
 #!/bin/bash
 
 #Check if script was run as root. Exit if false.
