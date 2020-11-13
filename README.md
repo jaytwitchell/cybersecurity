@@ -6,10 +6,8 @@ YML Scripts
   2) installing and launching FILEBEAT & METRABEAT 
  
 NETWORK DIAGRAMS
-  1) Roger
-  2) Azure
-
-
+  1) Azure
+  
 BASH Scripts
   1) System Audit
   2) Useful Loop
