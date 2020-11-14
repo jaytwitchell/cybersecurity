@@ -17,7 +17,7 @@ The Networking Diagram provides th macro view of the program. This particular di
 2. Useful Loop
 3. SYS INFO_2
 
-### Ansible
+### ANSIBLE
 1. config 2 Virtual Machines with DOCKER
 2. installing and launching FILEBEAT & METRABEAT
 
