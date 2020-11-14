@@ -1,4 +1,4 @@
-#### H4 Cybersecurity Bootcamp Project 1
+#### Cybersecurity Bootcamp Project 1
 
 
 This repository contains sample work from University of Oregon’s Cybersecurity Bootcamp. The class has covered 5 Divisions (Offense, Defense, Network, and Linux/Windows); and 6 Domains (Threats/Attacks/Vulnerabilities, Risk Management, Tools, Access Management, Architecture/Design, and Cryptography) of CS.  
@@ -12,16 +12,16 @@ The Anisble portions demonstartes exposure to the creation and utilization of vi
 The Networking Diagram provides th macro view of the program. This particular diagram was part of our exploration architecture and design, building secure virtual networks within Microsoft Cloud Management Systems. 
 
 
-### H3 BASH Scripts
+### BASH Scripts
 1. System Audit
 2. Useful Loop
 3. SYS INFO_2
 
-### H3 Ansible
+### Ansible
 1. config 2 Virtual Machines with DOCKER
 2. installing and launching FILEBEAT & METRABEAT
 
-### H3 DIAGRAM
+### DIAGRAM
   Azure Virtual Network
    1. Azure resource group
    2. Virtual network with IP address range
