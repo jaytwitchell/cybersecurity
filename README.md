@@ -9,7 +9,10 @@ The BASH Script provide a micro view of the course. The scripts help manage syst
 The Anisble portions demonstartes exposure to the creation and utilization of virtualized environments. Specifically using DOCKER to Configure VMs as well as installing and launching applications. 
 
 
-The Networking Diagram provides th macro view of the program. This particular diagram was part of our exploration architecture and design, building secure virtual networks within Microsoft Cloud Management Systems. 
+The Networking Diagram provides the macro view of the program. This particular diagram was part of our exploration architecture and design, building secure virtual networks within Microsoft Cloud Management Systems. 
+
+
+The Presentations provides a detailed display of both offensive and defensive measures available in attacking or responding to attacks. These were team presentations. 
 
 
 ### BASH Scripts
@@ -43,7 +46,7 @@ The Networking Diagram provides th macro view of the program. This particular di
   Final Defensive Presentation
    
    1. Network Topology
-   2. Critical Vulnerablities
+   2. Critical Vulnerablities 
    3. Hardening Options
    4. Implementing Patches
    
