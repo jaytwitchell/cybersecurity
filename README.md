@@ -26,11 +26,25 @@ The Networking Diagram provides th macro view of the program. This particular di
    1. Azure resource group
    2. Virtual network with IP address range
    3. Subnet range
-   4.  Flow of specific traffic (e.g., HTTP, SSH)
+   4. Flow of specific traffic (e.g., HTTP, SSH)
    5. Security group blocking traffic
    6. Load balancer
    7. 4 VMs
    8. Docker and Ansible deployment
+ 
+ ### Presentation
+  Red Team vs Blue Team
+    1. Network Topology 
+    2. Red Team: Recon, Assessment, Exploitation, and Persistence
+    3. Blue Team: Log Analysis, Characterization, Idetifciation, and Mitigation 
+   
+   Final Defensive Presentation
+    1. Network Topology
+    2. Critical Vulnerablities
+    3. Hardening Options
+    4. Implementing Patches
+   
+   
 
 
 
