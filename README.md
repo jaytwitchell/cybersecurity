@@ -32,7 +32,7 @@ The Networking Diagram provides th macro view of the program. This particular di
    7. 4 VMs
    8. Docker and Ansible deployment
  
- ### PRESNTATIONS
+ ### PRESENTATIONS
   Red Team vs Blue Team
    
   1. Network Topology 
