@@ -34,15 +34,18 @@ The Networking Diagram provides th macro view of the program. This particular di
  
  ### Presentation
   Red Team vs Blue Team
-    1. Network Topology 
-    2. Red Team: Recon, Assessment, Exploitation, and Persistence
-    3. Blue Team: Log Analysis, Characterization, Idetifciation, and Mitigation 
    
-   Final Defensive Presentation
-    1. Network Topology
-    2. Critical Vulnerablities
-    3. Hardening Options
-    4. Implementing Patches
+  1. Network Topology 
+  2. Red Team: Recon, Assessment, Exploitation, and Persistence
+  3. Blue Team: Log Analysis, Characterization, Idetifciation, and Mitigation 
+   
+  
+  Final Defensive Presentation
+   
+   1. Network Topology
+   2. Critical Vulnerablities
+   3. Hardening Options
+   4. Implementing Patches
    
    
 
